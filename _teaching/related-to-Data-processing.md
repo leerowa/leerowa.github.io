@@ -1,7 +1,7 @@
 ---
 title: "related to Data processing"
 collection: teaching
-type: "Undergraduate course"
+# type: "Undergraduate course"
 permalink: /teaching/related-to-Data-processing
 # venue: "University 1, Department"
 date: 2025-10-19
