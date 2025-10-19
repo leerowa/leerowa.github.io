@@ -11,11 +11,12 @@ main:
 #  - title: "publications"
  #url: /publications/
 
-  - title: "a collection of info"
-    url: /talks/    
+ - title: "a collection of info"
+    url: /teaching/    
 
   - title: "Hobby"
-    url: /teaching/    
+    url: /talks/    
+  
     
   #- title: "Portfolio"
   #  url: /portfolio/
