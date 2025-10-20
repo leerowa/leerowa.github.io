@@ -8,7 +8,8 @@ date: 2025-10-19
 # location: "City, Country"
 ---
 
-related to Data processing
+데이터 처리와 관련된 정보들
+--
 
 1. 어쩌고저쩌고
 2. 어쩌고저쩌고
