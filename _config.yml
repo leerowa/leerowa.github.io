@@ -218,7 +218,7 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
+  hobby:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -227,7 +227,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  info:
     output: true
     permalink: /:collection/:path/
 
@@ -252,10 +252,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _hobby
   - scope:
       path: ""
-      type: teaching
+      type: hobby
     values:
       layout: single
       author_profile: true
@@ -279,10 +279,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _info
   - scope:
       path: ""
-      type: talks
+      type: info
     values:
       layout: talk
       author_profile: true
