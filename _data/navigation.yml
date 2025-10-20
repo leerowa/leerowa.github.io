@@ -7,28 +7,20 @@
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
 
+
 main:
-#  - title: "publications"
- #url: /publications/
 
-   - title: "a collection of info"
-      url: /info/  
+  - title: "a collection of info"
+    url: /info/
 
-   - title: "Hobby"
-      url: /hobby/ 
-  
-    
-  #- title: "Portfolio"
-  #  url: /portfolio/
-        
-  #- title: "Blog Posts"
-  #  url: /year-archive/
-    
+  - title: "Hobby"
+    url: /hobby/
+# 주석 처리된 항목의 들여쓰기도 마찬가지로 맞추어야 합니다.
+# - title: "Portfolio"
+#   url: /portfolio/
+
   - title: "CV"
     url: /cv/
     
-  # - title: "CV"
-  #   url: /cv-json/
-    
- # - title: "Guide"
-  #  url: /markdown/
+# - title: "Guide"
+#   url: /markdown/
