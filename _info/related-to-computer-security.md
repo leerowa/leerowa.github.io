@@ -8,8 +8,8 @@ date: 2025-10-18
 # location: "City, Country"
 ---
 
-related to computer security
-===
+켐퓨터 보안과 관련된 정보들
+==
 
 1. 어쩌고저쩌고
 2. 어쩌고저쩌고
