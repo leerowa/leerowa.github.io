@@ -11,7 +11,20 @@
 {% else %}
   {% assign title = post.title %}
 {% endif %}
-
+<style>
+.archive-box {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+.archive-box:hover { /* 호버 효과도 분리해서 적용 */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+    transition: all 0.3s ease;
+}
+</style>
 <div class="{{ include.type | default: "list" }}__item archive-box">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
