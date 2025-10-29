@@ -33,8 +33,6 @@ Perplexity [link](https://www.perplexity.ai/)
    토론대회를 준비하며 자료의 근거들과 논리를 정리한다던가, 과제물의 인용문 출처를 찾기등입니다.<br><br>
 
 
-   
-
 gemini [link](https://gemini.google.com/)
 --
 
