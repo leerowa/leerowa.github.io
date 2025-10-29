@@ -11,8 +11,15 @@ date: 2025-10-18
 동기부여 영상들
 --
 
-1. [파인만이 말하는 성실과 노력의 가치](https://youtu.be/JX-YL2xNXgo)<br>
+1. [파인만이 말하는 성실과 노력의 가치](https://youtu.be/JX-YL2xNXgo)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JX-YL2xNXgo?si=eah4b_ZcytEuglUy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 하물며 파인만조차도 열심히 공부하는데, 내가 안할 이유가 없지 않은가.
+
+
 
 2. [정승제의 내일부터 하면 망하는 이유](https://youtu.be/0Kij2BdDcio)<br>
 지금 할 수 있는 일은 지금 하자. 말보단 행동.
