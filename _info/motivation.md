@@ -13,9 +13,9 @@ date: 2025-10-18
 
 1. [파인만이 말하는 성실과 노력의 가치](https://youtu.be/JX-YL2xNXgo)
 
-
+<div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JX-YL2xNXgo?si=eah4b_ZcytEuglUy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+</div>
 
 하물며 파인만조차도 열심히 공부하는데, 내가 안할 이유가 없지 않은가.
 
