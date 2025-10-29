@@ -17,8 +17,8 @@ date: 2025-10-30
 <hr>
 
  
- chat GPT [link](https://chatgpt.com/)
- --
+chat GPT [link](https://chatgpt.com/)
+--
    
    
    가장 처음 사용했던 생성형 ai로 기본적인 생활에 필요한 정보들을 물어봅니다.
