@@ -1,5 +1,5 @@
 ---
-title: "related to computer security"
+title: "motivational video"
 collection: info
 # type: "Workshop"
 permalink: /info/motivation
